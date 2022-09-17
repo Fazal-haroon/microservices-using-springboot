@@ -58,5 +58,10 @@ Now we use the user and department services to check the hystrix dashboard. I ju
 Cloud config server
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/190874384-21c84bed-e5ad-4ccd-95f6-a1a7424bc394.png)
+<br>
+Instance currently running with Eureka
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190874419-0ecd3182-0e69-43b4-9b87-6c3433ea3a10.png)
+
 
 
