@@ -64,6 +64,15 @@ Cloud config server
 Instance currently running with Eureka
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/190874419-0ecd3182-0e69-43b4-9b87-6c3433ea3a10.png)
+<br>
+7 Zipkin all the distributed logging, now we use zipkin to identify which services called what is the trace id and trace id will be unique across the all microservices and that particular one request, and span id each and every microservices change. We can get where is the failer and where is the success.
+<br>
+We download the zipkin new release and use the cmd to run the zipkin(java -jar zipkin_file_name.jar)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190874939-c559240f-ae0a-46f0-b939-0d898ae81a9d.png)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190875063-aeb8f161-81a3-46d1-88ac-8250e7750d4f.png)
+<br>
 
 
 
