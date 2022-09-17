@@ -76,6 +76,7 @@ We download the zipkin new release and use the cmd to run the zipkin(java -jar z
 Zipkin Server Dashboard
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/190875531-67e92caf-0de4-47f0-b6ac-de4231598466.png)
-
-
-
+<br>
+Added serviceName=user-server then run the query
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190875565-d09a42de-95a3-4ded-80d0-4e6e98f343a4.png)
