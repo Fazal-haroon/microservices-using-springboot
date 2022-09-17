@@ -51,4 +51,12 @@ Now we use the user and department services to check the hystrix dashboard. I ju
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/190869471-6c9d59d2-60e3-48a9-97af-4f2234dbafa4.png)
 <br>
+6 Cloud Config Server, we added Githu Repo for config server. We just create new bootstrap.yml and added all the repeated configuration in one file in github repo
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190874351-2d8fec32-07d9-4b47-be04-496defe8fdcc.png)
+<br>
+Cloud config server
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190874384-21c84bed-e5ad-4ccd-95f6-a1a7424bc394.png)
+
 
