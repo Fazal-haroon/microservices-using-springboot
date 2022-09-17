@@ -1,5 +1,5 @@
 # microservices-using-springboot
-Basic Microservice Example(User service, Department service, Service Registry, Api Gateway, Hystrix Circuit Dashboard, Cloud Config Server, GitHub Repo for Config Server, and Zipkin Sleuth)
+Basic Microservice Example(User service, Department service, Service Registry, Api Gateway, Hystrix(Circuit breaker) Dashboard, Cloud Config Server, GitHub Repo for Config Server, and Zipkin Sleuth)
 <br>
 1 Create Department service
 <br>
@@ -37,3 +37,18 @@ Users
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/190857878-cb280a9b-afdb-4b11-96b0-cd861108691f.png)
 <br>
+5 Cirsuit Braker(Hystrix Library and Hystrix Dashboard) - so we identify which one service is running and which is not running in dashboard.
+<br>
+Just start the actuator/hystrix.stream
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190869291-cdd1cf1c-ab7f-47b8-bac6-8200277fc35a.png)
+<br>
+We enter the actuator/hystrix.stream port of gateway into the hystrix dashboard
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190869324-e7a7ad37-4287-45b6-b1a0-bfb47f21598d.png)
+<br>
+Now we use the user and department services to check the hystrix dashboard. I just stop the department service
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190869471-6c9d59d2-60e3-48a9-97af-4f2234dbafa4.png)
+<br>
+
