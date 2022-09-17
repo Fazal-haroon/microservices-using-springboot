@@ -73,6 +73,9 @@ We download the zipkin new release and use the cmd to run the zipkin(java -jar z
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/190875063-aeb8f161-81a3-46d1-88ac-8250e7750d4f.png)
 <br>
+Zipkin Server Dashboard
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190875531-67e92caf-0de4-47f0-b6ac-de4231598466.png)
 
 
 
