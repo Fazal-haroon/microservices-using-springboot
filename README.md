@@ -23,3 +23,17 @@ here we call User service with department, this both are decouple with each othe
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/190856238-2dfcc051-ba1c-4c24-9d58-5ef10f32f2ac.png)
 <br>
+After configuring the Cloud Gateway, Now we use 9191 port for all servers
+<br>
+Departments
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190857074-24201bc8-d847-4812-8ba2-8847c8da0c6b.png)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190857094-4a6f1f56-d423-4752-b255-a8a59eaf9c9f.png)
+<br>
+Users
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190857855-46f5929f-d525-40a2-aa26-ce01d41623ea.png)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190857878-cb280a9b-afdb-4b11-96b0-cd861108691f.png)
+<br>
