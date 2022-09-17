@@ -15,3 +15,11 @@ here we call User service with department, this both are decouple with each othe
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/190845532-c9bce869-82d2-40c7-99cd-279e58b9fe52.png)
 <br>
+3 Configure Service Registry Eureka Server
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190856186-12d5f001-a5fb-418b-ba9d-518f5f21c405.png)
+<br>
+4 Cloud Gateway
+<br>
+![image](https://user-images.githubusercontent.com/36573782/190856238-2dfcc051-ba1c-4c24-9d58-5ef10f32f2ac.png)
+<br>
