@@ -1,0 +1,8 @@
+server:
+  port: 8761
+
+#both are false b/c this is my server, no need to go to eureka server for the register itself.
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
